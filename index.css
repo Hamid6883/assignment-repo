@@ -1,0 +1,58 @@
+*{
+    margin: 0pt;
+}
+.All{
+    position: absolute;
+width: 525px;
+height: 226px;
+left: 844px;
+top: 216px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: right;
+
+/* Dark 01 */
+
+color: #151414;
+
+
+}
+.There{
+    position: absolute;
+    width: 498px;
+    height: 78px;
+    left: 875px;
+    top: 600px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    
+    
+    text-align: right;
+    
+    /* Dark 02 */
+    
+    color: #444343;
+    
+    
+}
+.contact{
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 700px;
+    color:white;
+    background-color: coral; 
+
+}
+.Lorem{
+background-image: url('../ass/images/banner/banner2.png');
+background-repeat: no-repeat;
+}
